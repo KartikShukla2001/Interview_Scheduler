@@ -10,3 +10,5 @@ To run client
 cd project_frontend
 npm run dev
 ```
+
+Project Link - https://tourmaline-zabaione-16318f.netlify.app/
